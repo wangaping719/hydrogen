@@ -14,6 +14,10 @@ bulidtime: "1514736000" #博客建立时的时间戳 可进入https://tool.lu/ti
 paginate: 8 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
+repository: wangaping719/wangaping.cn
+github_url: https://github.com/wangaping719
+url: https://wangaping719.github.io
+
 background: https://api.dujin.org/bing/1920.php
 theme_color: 546E7A
 
